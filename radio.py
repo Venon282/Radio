@@ -2,7 +2,7 @@
 """
 Created on Fri May 21 09:23:26 2021
 
-@author: SLAETH
+@author: Vénon
 """
 
 import os
